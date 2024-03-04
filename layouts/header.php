@@ -66,5 +66,5 @@
    </div>
 <?php endif;?>
 
-<div class="">
+<div class="page">
   <div class="container-fluid">
